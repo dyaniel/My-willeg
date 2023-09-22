@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.main h1{
+	width: 150px;
+	height: 60px;
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 20px;
+	color: #D54400;
+	background: transparent;
+	text-align: center;
+	
+}
+.main h1 a{
+	font-size: 30px;
+	color: #CA00FF;
+	
+}
